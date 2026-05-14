@@ -1,0 +1,4 @@
+demo/target/classes/com/example/backend/models/WallOrientation.class
+demo/target/classes/com/example/backend/models/Wall.class
+demo/target/classes/com/example/backend/models/Player.class
+demo/target/classes/com/example/backend/models/MoveResult.class
